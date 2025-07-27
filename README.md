@@ -12,4 +12,4 @@
 - Created database files, tables and ran queries
 - Committed the files to Github
   
-
+<img width="1440" height="900" alt="Screenshot 2025-07-27 at 3 51 23 PM" src="https://github.com/user-attachments/assets/33db3fd0-24ce-4288-8e5b-86f895aebef4" />
